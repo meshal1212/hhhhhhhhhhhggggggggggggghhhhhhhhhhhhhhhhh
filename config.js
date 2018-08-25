@@ -6,4 +6,4 @@ exports.PREFIX = 'E';
 
 
 
-exports.GOOGLE_API_KEY = 'AIzaSyBCjCg1CHvSEefgeHQA82DxzHktooKHptc';
+exports.GOOGLE_API_KEY = 'AIzaSyDrc5XU5KVttPGo0QBNaDXuBH6xaEqypbA';
